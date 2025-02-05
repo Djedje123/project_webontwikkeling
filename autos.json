@@ -1,0 +1,63 @@
+{"cars": [
+    {
+      "id": 1,
+      "name": "Tesla Model S",
+      "description": "Een luxe elektrische sedan met een indrukwekkend rijbereik en prestaties.",
+      "year": 2022,
+      "isAvailable": true,
+      "releaseDate": "2022-06-15",
+      "imageUrl": "https://example.com/tesla_model_s.jpg",
+      "fuelType": "electric",
+      "features": ["Autopilot", "Luchtvering", "Premium interieur"],
+      "brandId": 101
+    },
+    {
+      "id": 2,
+      "name": "BMW M3",
+      "description": "Een sportieve sedan met krachtige prestaties en luxe afwerking.",
+      "year": 2021,
+      "isAvailable": false,
+      "releaseDate": "2021-04-20",
+      "imageUrl": "https://example.com/bmw_m3.jpg",
+      "fuelType": "petrol",
+      "features": ["M-sport ophanging", "Sportstoelen", "Harman Kardon geluidssysteem"],
+      "brandId": 102
+    },
+    {
+      "id": 3,
+      "name": "Audi A6",
+      "description": "Een stijlvolle en comfortabele sedan met geavanceerde technologie.",
+      "year": 2023,
+      "isAvailable": true,
+      "releaseDate": "2023-02-10",
+      "imageUrl": "https://example.com/audi_a6.jpg",
+      "fuelType": "diesel",
+      "features": ["Quattro aandrijving", "Virtual Cockpit", "Matrix LED-koplampen"],
+      "brandId": 103
+    },
+    {
+      "id": 4,
+      "name": "Mercedes-Benz C-Class",
+      "description": "Een elegante en luxueuze sedan met een premium interieur.",
+      "year": 2022,
+      "isAvailable": true,
+      "releaseDate": "2022-07-08",
+      "imageUrl": "https://example.com/mercedes_c_class.jpg",
+      "fuelType": "hybrid",
+      "features": ["MBUX infotainment", "Lederen bekleding", "Adaptieve cruise control"],
+      "brandId": 104
+    },
+    {
+      "id": 5,
+      "name": "Ford Mustang",
+      "description": "Een iconische Amerikaanse muscle car met krachtige prestaties.",
+      "year": 2021,
+      "isAvailable": false,
+      "releaseDate": "2021-03-05",
+      "imageUrl": "https://example.com/ford_mustang.jpg",
+      "fuelType": "petrol",
+      "features": ["V8-motor", "Sportuitlaat", "Custom interieur"],
+      "brandId": 105
+    }
+  ]
+}
