@@ -6,7 +6,7 @@
       "year": 2022,
       "isAvailable": true,
       "releaseDate": "2022-06-15",
-      "imageUrl": "https://example.com/tesla_model_s.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Djedje123/project_webontwikkeling/refs/heads/master/tesla_model_s.jpg",
       "fuelType": "electric",
       "features": ["Autopilot", "Luchtvering", "Premium interieur"],
       "brandId": 101
@@ -18,7 +18,7 @@
       "year": 2021,
       "isAvailable": false,
       "releaseDate": "2021-04-20",
-      "imageUrl": "https://example.com/bmw_m3.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Djedje123/project_webontwikkeling/refs/heads/master/bmw_m3.jpg",
       "fuelType": "petrol",
       "features": ["M-sport ophanging", "Sportstoelen", "Harman Kardon geluidssysteem"],
       "brandId": 102
@@ -30,7 +30,7 @@
       "year": 2023,
       "isAvailable": true,
       "releaseDate": "2023-02-10",
-      "imageUrl": "https://example.com/audi_a6.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Djedje123/project_webontwikkeling/refs/heads/master/audi_a6.jpg",
       "fuelType": "diesel",
       "features": ["Quattro aandrijving", "Virtual Cockpit", "Matrix LED-koplampen"],
       "brandId": 103
@@ -42,7 +42,7 @@
       "year": 2022,
       "isAvailable": true,
       "releaseDate": "2022-07-08",
-      "imageUrl": "https://example.com/mercedes_c_class.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Djedje123/project_webontwikkeling/refs/heads/master/mercedes_c_class.jpg",
       "fuelType": "hybrid",
       "features": ["MBUX infotainment", "Lederen bekleding", "Adaptieve cruise control"],
       "brandId": 104
@@ -54,7 +54,7 @@
       "year": 2021,
       "isAvailable": false,
       "releaseDate": "2021-03-05",
-      "imageUrl": "https://example.com/ford_mustang.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/Djedje123/project_webontwikkeling/refs/heads/master/ford_mustang.jpg",
       "fuelType": "petrol",
       "features": ["V8-motor", "Sportuitlaat", "Custom interieur"],
       "brandId": 105

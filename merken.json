@@ -5,34 +5,34 @@
         "name": "Tesla",
         "country": "USA",
         "foundedYear": 2003,
-        "logoUrl": "https://example.com/tesla_logo.jpg"
+        "logoUrl": "https://raw.githubusercontent.com/Djedje123/project_webontwikkeling/refs/heads/master/tesla_logo.jpg"
       },
       {
         "id": 102,
         "name": "BMW",
         "country": "Germany",
         "foundedYear": 1916,
-        "logoUrl": "https://example.com/bmw_logo.jpg"
+        "logoUrl": "https://raw.githubusercontent.com/Djedje123/project_webontwikkeling/refs/heads/master/bmw_logo.jpg"
       },
       {
         "id": 103,
         "name": "Audi",
         "country": "Germany",
         "foundedYear": 1909,
-        "logoUrl": "https://example.com/audi_logo.jpg"
+        "logoUrl": "https://raw.githubusercontent.com/Djedje123/project_webontwikkeling/refs/heads/master/audi_logo.jpg"
       },
       {
         "id": 104,
         "name": "Mercedes-Benz",
         "country": "Germany",
         "foundedYear": 1926,
-        "logoUrl": "https://example.com/mercedes_logo.jpg"
+        "logoUrl": "https://raw.githubusercontent.com/Djedje123/project_webontwikkeling/refs/heads/master/mercedes_logo.jpg"
       },
       {
         "id": 105,
         "name": "Ford",
         "country": "USA",
         "foundedYear": 1903,
-        "logoUrl": "https://example.com/ford_logo.jpg"
+        "logoUrl": "https://raw.githubusercontent.com/Djedje123/project_webontwikkeling/refs/heads/master/ford_logo.jpg"
       }
     ]}
